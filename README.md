@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Assembly   50 mins         █████████████████████████   100.00 %
+Assembly   38 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
