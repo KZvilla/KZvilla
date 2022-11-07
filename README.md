@@ -15,8 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Assembly   30 mins         ████████████████████████░   96.41 %
-C          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
